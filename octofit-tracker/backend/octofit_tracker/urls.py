@@ -21,7 +21,7 @@ from rest_framework.response import Response
 import os
 
 # Import views from the octofit_tracker app
-from octofit_tracker.views import (
+from octofit_tracker.octofit_tracker.views import (
     UserViewSet, TeamViewSet, ActivityViewSet,
     LeaderboardViewSet, WorkoutViewSet
 )

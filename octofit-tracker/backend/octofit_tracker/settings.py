@@ -47,7 +47,7 @@ INSTALLED_APPS = [
     'rest_framework',
     'corsheaders',
     'djongo',
-    'octofit_tracker',
+    'octofit_tracker.octofit_tracker',
 ]
 
 MIDDLEWARE = [
